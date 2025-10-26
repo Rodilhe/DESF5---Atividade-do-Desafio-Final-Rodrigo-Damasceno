@@ -2,7 +2,7 @@
 Repositório com a entrega do desafio final - Rodrigo Damasceno
 
 # Products API
-Foi adicionado o arquivo Collection.json na pasta raiz do projeto contendo as requisições para testar a aplicação.
+Foi adicionado o arquivo Collection.json na pasta raiz do projeto contendo as requisições para testar a aplicação através do Postman.
 
 ## Diagramas
 Os Diagramas C4 de Contexto, de Conteiners e de Componentes se encontram na pasta Diagrams do projeto.
